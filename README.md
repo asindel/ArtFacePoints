@@ -4,7 +4,7 @@ This is the source code for our conference article "ArtFacePoints: High-resoluti
 
 ![ArtFacePoints](ArtFacePoints_teaser.jpg)
 
-If you use the code, please cite our [paper](https://arxiv.org/pdf/2210.09204)
+The source code and pre-trained models are only for research purposes. If you use the code, please cite our [paper](https://arxiv.org/pdf/2210.09204)
 
 	  @misc{Sindel2022ArtFacePoints,
 		title={{ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints}},
@@ -27,9 +27,9 @@ Install the requirements using pip or conda (python 3):
 
 We provide the pre-trained model and the inference code to test ArtFacePoints for artwork images of size 1024 x 1024 which are cropped to the facial region.
 
-### Pretrained weights
+### Pre-trained weights
 
-The pretrained weights of ArtFacePoints from the paper can be downloaded [here](https://drive.google.com/drive/folders/1GpgRXGjxtAKkvwkfQ8RpD7h9tP6beSP2?usp=sharing).
+The pre-trained weights of ArtFacePoints from the paper can be downloaded [here](https://drive.google.com/drive/folders/1GpgRXGjxtAKkvwkfQ8RpD7h9tP6beSP2?usp=sharing).
 
 Move them into the folder: "/weights"
 
