@@ -6,12 +6,13 @@ This is the source code for our conference article "ArtFacePoints: High-resoluti
 
 The source code and pre-trained models are only for research purposes. If you use the code, please cite our [paper](https://arxiv.org/pdf/2210.09204)
 
-	  @misc{Sindel2022ArtFacePoints,
+	  @InProceedings{Sindel2022ArtFacePoints,
 		title={{ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints}},
 		author={Aline Sindel and Andreas Maier and Vincent Christlein},
-		year={2022},
-		publisher = {arXiv},
-		doi = {10.48550/ARXIV.2210.09204}
+		year={2023},
+		booktitle={Computer Vision – ECCV 2022 Workshops. ECCV 2022},
+		doi={10.1007/978-3-031-25056-9_20},
+  		pages={298-313}
 	  }
 
 ## Requirements
